@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/FishWash/jfox-website-v2.git/static/css/main.39303e71.chunk.css",
-    "main.js": "/FishWash/jfox-website-v2.git/static/js/main.6f4eae90.chunk.js",
-    "main.js.map": "/FishWash/jfox-website-v2.git/static/js/main.6f4eae90.chunk.js.map",
-    "runtime~main.js": "/FishWash/jfox-website-v2.git/static/js/runtime~main.69e6a6c3.js",
-    "runtime~main.js.map": "/FishWash/jfox-website-v2.git/static/js/runtime~main.69e6a6c3.js.map",
-    "static/js/2.43c309c4.chunk.js": "/FishWash/jfox-website-v2.git/static/js/2.43c309c4.chunk.js",
-    "static/js/2.43c309c4.chunk.js.map": "/FishWash/jfox-website-v2.git/static/js/2.43c309c4.chunk.js.map",
-    "index.html": "/FishWash/jfox-website-v2.git/index.html",
-    "precache-manifest.259ed01adecfe8d389951e8c3b42ab5d.js": "/FishWash/jfox-website-v2.git/precache-manifest.259ed01adecfe8d389951e8c3b42ab5d.js",
-    "service-worker.js": "/FishWash/jfox-website-v2.git/service-worker.js",
-    "static/css/main.39303e71.chunk.css.map": "/FishWash/jfox-website-v2.git/static/css/main.39303e71.chunk.css.map",
-    "static/media/hs-lookup.png": "/FishWash/jfox-website-v2.git/static/media/hs-lookup.88578ca8.png",
-    "static/media/jet-spaceman.png": "/FishWash/jfox-website-v2.git/static/media/jet-spaceman.62759eec.png",
-    "static/media/outdoor-bg.jpg": "/FishWash/jfox-website-v2.git/static/media/outdoor-bg.e1d0a7ba.jpg",
-    "static/media/pointer-mace.png": "/FishWash/jfox-website-v2.git/static/media/pointer-mace.f1d8391d.png",
-    "static/media/tft-tool.png": "/FishWash/jfox-website-v2.git/static/media/tft-tool.c461abd0.png"
+    "main.css": "/jfox-website-v2/static/css/main.39303e71.chunk.css",
+    "main.js": "/jfox-website-v2/static/js/main.ca6ccf29.chunk.js",
+    "main.js.map": "/jfox-website-v2/static/js/main.ca6ccf29.chunk.js.map",
+    "runtime~main.js": "/jfox-website-v2/static/js/runtime~main.84fb128a.js",
+    "runtime~main.js.map": "/jfox-website-v2/static/js/runtime~main.84fb128a.js.map",
+    "static/js/2.43c309c4.chunk.js": "/jfox-website-v2/static/js/2.43c309c4.chunk.js",
+    "static/js/2.43c309c4.chunk.js.map": "/jfox-website-v2/static/js/2.43c309c4.chunk.js.map",
+    "index.html": "/jfox-website-v2/index.html",
+    "precache-manifest.4196cc79bc7850baa9822f8b30b875c9.js": "/jfox-website-v2/precache-manifest.4196cc79bc7850baa9822f8b30b875c9.js",
+    "service-worker.js": "/jfox-website-v2/service-worker.js",
+    "static/css/main.39303e71.chunk.css.map": "/jfox-website-v2/static/css/main.39303e71.chunk.css.map",
+    "static/media/hs-lookup.png": "/jfox-website-v2/static/media/hs-lookup.88578ca8.png",
+    "static/media/jet-spaceman.png": "/jfox-website-v2/static/media/jet-spaceman.62759eec.png",
+    "static/media/outdoor-bg.jpg": "/jfox-website-v2/static/media/outdoor-bg.e1d0a7ba.jpg",
+    "static/media/pointer-mace.png": "/jfox-website-v2/static/media/pointer-mace.f1d8391d.png",
+    "static/media/tft-tool.png": "/jfox-website-v2/static/media/tft-tool.c461abd0.png"
   }
 }
