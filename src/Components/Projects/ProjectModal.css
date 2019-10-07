@@ -1,0 +1,18 @@
+.ModalBody {
+  padding: 0 0 5px 0;
+}
+
+.ModalBody img {
+  width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+
+.ModalBody .intro {
+  margin: 5px 10px;
+}
+
+.ModalBody .Button {
+  margin: 5px  10px;
+  flex-grow: 1;
+}

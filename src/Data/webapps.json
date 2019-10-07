@@ -1,0 +1,20 @@
+[
+    {
+        "key": "hs-lookup",
+        "title": "HS Lookup",
+        "tryUrl": "http://tinyurl.com/hs-lookup",
+        "gitHubUrl": "https://github.com/FishWash/hs-lookup.git",
+        "year": "2019",
+        "tools": "React",
+        "intro": "This is a tool I made for the Blizzard game, Hearthstone. It allows players to quickly look up cards by mana cost and see their average health and attack values. Built in React."
+    },
+    {
+        "key": "tft-tool",
+        "title": "TFT Tool",
+        "tryUrl": "https://cranky-ritchie-25e8df.netlify.com/",
+        "gitHubUrl": "https://github.com/FishWash/tft-tool",
+        "year": "2019",
+        "tools": "React",
+        "intro": "This is a tool I made for Teamfight Tactics by Riot Games. It helps the player choose your team by showing you possible synergies. Made to be used on mobile. Built in React."
+    }
+]

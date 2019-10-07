@@ -1,0 +1,29 @@
+.whiteBg {
+  background-color: white;
+  padding: 5px;
+  box-shadow: 0 0 2px rgba(0,0,0,0.2);
+}
+
+.projectsNav {
+  max-width: 300px;
+  margin: auto;
+  padding: none;
+}
+
+.projectsNav * {
+  flex-grow: 1;
+  text-align: center;
+}
+
+.projectsContent {
+  width: 100%;
+}
+
+.NavLink.nav-link {
+  color: rgb(43, 161, 112);
+}
+
+.NavLink.nav-link.active {
+  background-color: rgb(43, 161, 112);
+  color: white;
+}

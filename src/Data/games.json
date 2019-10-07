@@ -1,0 +1,27 @@
+[
+    {
+        "key": "pointer-mace",
+        "title": "Pointer Mace",
+        "playUrl": "https://fishwash.github.io/pointer-mace/",
+        "gitHubUrl": "https://github.com/FishWash/pointer-mace",
+        "year": "2019",
+        "tools": "Unity",
+        "intro": "Pointer Mace was built around one unique mechanic: hit stuff with a mace attached to your mouse cursor. The enemy waves are randomized, so every attempt has its own challenge. Survive for as long as you can!"
+    },
+    {
+        "key": "jet-spaceman",
+        "title": "Jet Spaceman",
+        "playUrl": "https://fishwash.github.io/jet-spaceman/",
+        "gitHubUrl": "https://github.com/FishWash/jet-spaceman",
+        "year": "2019",
+        "intro": "Jet Spaceman was inspired by old-school, arcade-style shooters. Dodge enemy attacks and fire back with your charge cannon!"
+    },
+    {
+        "key": "duckoman",
+        "title": "Duckoman",
+        "playUrl": "https://fishwash.github.io/Duckoman/",
+        "gitHubUrl": "https://github.com/FishWash/DuckomanCode",
+        "year": "2017",
+        "intro": "Duckoman was inspired by platforming games like Super Mario Bros. but it has my own twists added to it. You play as Duckoman, Earth's most powerful (duck) being. Stop the robots!"
+    }
+]
