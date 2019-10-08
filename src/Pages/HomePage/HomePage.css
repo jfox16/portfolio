@@ -1,7 +1,8 @@
 .whiteBg {
   background-color: white;
-  padding: 5px;
+  padding: 10px;
   box-shadow: 0 0 2px rgba(0,0,0,0.2);
+  text-align: center;
 }
 
 .projectsNav {
@@ -20,10 +21,10 @@
 }
 
 .NavLink.nav-link {
-  color: rgb(43, 161, 112);
+  color: rgb(39, 145, 110);
 }
 
 .NavLink.nav-link.active {
-  background-color: rgb(43, 161, 112);
+  background-color: rgb(39, 145, 110);
   color: white;
 }

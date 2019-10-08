@@ -22,6 +22,7 @@ class HomePage extends Component {
       <div className="innerDiv">
         <Tab.Container defaultActiveKey="games">
           <div className="whiteBg">
+            <h1>Projects</h1>
             <Nav variant="pills" className="projectsNav" color="danger">
               <Nav.Item>
                 <Nav.Link eventKey="games" className="NavLink">Games</Nav.Link>
@@ -41,9 +42,7 @@ class HomePage extends Component {
           </Tab.Content>
         </Tab.Container>
       </div>
-
-      {/* <Footer /> */}
-
+      
     </div>
     );
   }

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0fc2e9691ecdd8be7b090388e639381b",
+    "revision": "3811719ecf132b14b9e1bfa7fe1e94b6",
     "url": "/jfox-website-v2/index.html"
   },
   {
-    "revision": "f3b761e8ee00c3a87995",
-    "url": "/jfox-website-v2/static/css/main.39303e71.chunk.css"
+    "revision": "9acb2506b390139c97d5",
+    "url": "/jfox-website-v2/static/css/main.43d06bdb.chunk.css"
   },
   {
-    "revision": "eb2af55d576ac3cb0c3e",
-    "url": "/jfox-website-v2/static/js/2.43c309c4.chunk.js"
+    "revision": "5404f8046419f383dc14",
+    "url": "/jfox-website-v2/static/js/2.7d94fd27.chunk.js"
   },
   {
-    "revision": "f3b761e8ee00c3a87995",
-    "url": "/jfox-website-v2/static/js/main.ca6ccf29.chunk.js"
+    "revision": "9acb2506b390139c97d5",
+    "url": "/jfox-website-v2/static/js/main.a8dbf774.chunk.js"
   },
   {
     "revision": "55b0f5e6314db1bc7cf3",

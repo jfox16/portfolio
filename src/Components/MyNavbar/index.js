@@ -14,12 +14,15 @@ class MyNavbar extends Component {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto">
-              <Nav.Link href="/about">About</Nav.Link>
-              <NavDropdown title="Projects" id="basic-nav-dropdown">
-                <NavDropdown.Item href="/p/games">Games</NavDropdown.Item>
-                <NavDropdown.Item href="/p/web">Web</NavDropdown.Item>
-                <NavDropdown.Item href="/p/other">Other</NavDropdown.Item>
-              </NavDropdown>
+              {/* <Nav.Item>
+                <NavDropdown title="Projects" id="basic-nav-dropdown">
+                  <NavDropdown.Item href="/">Games</NavDropdown.Item>
+                  <NavDropdown.Item href="/">Web Apps</NavDropdown.Item>
+                </NavDropdown>
+              </Nav.Item>
+              <Nav.Item>
+                <Nav.Link href="/contact">Contact</Nav.Link>
+              </Nav.Item> */}
             </Nav>
           </Navbar.Collapse>
         </Navbar>

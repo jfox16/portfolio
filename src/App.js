@@ -2,8 +2,11 @@ import React from 'react';
 import './App.css';
 import { BrowserRouter as Router, Route } from "react-router-dom";
 
-import HomePage from './Pages/HomePage'
-import MyNavbar from './Components/MyNavbar'
+import MyNavbar from './Components/MyNavbar';
+import Footer from "./Components/Footer";
+import HomePage from './Pages/HomePage';
+import ContactPage from './Pages/ContactPage';
+
 
 /* 
 ################################################
@@ -16,10 +19,11 @@ import MyNavbar from './Components/MyNavbar'
 function App() {
   return (
     <div className="App">
-      <div className="background" style={{backgroundColor:"peachpuff"}}/>
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <MyNavbar />
         <Route exact path="/" component={HomePage}/>
+        <Route exact path="/contact" component={ContactPage}/> 
+        <Footer />
       </Router>
     </div>
   );
