@@ -4,13 +4,17 @@ import { Tabs, Tab, Nav } from "react-bootstrap";
 // Import my components
 import Projects from "../../Components/Projects";
 import Banner from "../../Components/Banner";
+import Footer from "../../Components/Footer";
 
 // Import project data
 import gamesJson from "../../Data/games.json";
 import webappsJson from "../../Data/webapps.json"
 
-// Import class
+// Import css
 import "./HomePage.css";
+
+import { jonPic } from "../../Images/";
+import { resume } from "../../Data/jfox-resume.pdf";
 
 class HomePage extends Component {
   render() {
@@ -22,8 +26,12 @@ class HomePage extends Component {
       <div className="innerDiv">
         <Tab.Container defaultActiveKey="games">
           <div className="whiteBg">
-            <h1>Projects</h1>
-            <Nav variant="pills" className="projectsNav" color="danger">
+            {/* <h1>Projects</h1> */}
+            <div>
+              <img className="portrait" src={jonPic} alt="It's me!" />
+              <h2>I'm a programmer. I create value for people through the things I build. Whether I'm making a game or a website, my top priority is creating a positive experience for the user. Below are some projects that I'm especially proud of. Click on a project to learn more!</h2>
+            </div>
+            <Nav variant="pills" className="projectsNav" color="danger">  
               <Nav.Item>
                 <Nav.Link eventKey="games" className="NavLink">Games</Nav.Link>
               </Nav.Item>
@@ -43,6 +51,7 @@ class HomePage extends Component {
         </Tab.Container>
       </div>
       
+      <Footer />
     </div>
     );
   }

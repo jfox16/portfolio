@@ -1,6 +1,7 @@
 
 import foxIcon from "./fox-icon-orange.png";
 import outdoorBg from "./outdoor-bg.jpg";
+import jonPic from "./jonathanfox.png";
 
 
 // Project Images
@@ -19,4 +20,4 @@ const projectImages = {
 }
 
 
-export { foxIcon, outdoorBg, projectImages };
+export { foxIcon, jonPic, outdoorBg, projectImages };

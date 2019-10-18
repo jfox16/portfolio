@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Navbar, Nav, NavDropdown } from 'react-bootstrap';
-import { foxIcon } from "../../Images"
+import { foxIcon } from "../../Images";
+import { resume } from "../../Data/jfox-resume.pdf";
 
 class MyNavbar extends Component {
   render() {
@@ -15,6 +16,9 @@ class MyNavbar extends Component {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto">
               {/* <Nav.Item>
+                <Nav.Link href="/resume">Resume</Nav.Link>
+              </Nav.Item> */}
+              {/* <Nav.Item>  
                 <NavDropdown title="Projects" id="basic-nav-dropdown">
                   <NavDropdown.Item href="/">Games</NavDropdown.Item>
                   <NavDropdown.Item href="/">Web Apps</NavDropdown.Item>

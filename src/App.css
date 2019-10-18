@@ -13,16 +13,19 @@
 }
 
 .innerDiv {
+  text-align: center;
   margin: auto;
   padding: 0;
 }
 
 h1 {
   font-size: 36px;
+  margin: 10px;
 }
 
 h2 {
   font-size: 28px;
+  margin: 10px;
 }
 
 p {

@@ -15,6 +15,6 @@
         "gitHubUrl": "https://github.com/FishWash/tft-tool",
         "year": "2019",
         "tools": "React",
-        "intro": "This is a tool I made for Teamfight Tactics by Riot Games. It helps the player choose your team by showing you possible synergies. Made to be used on mobile. Built in React."
+        "intro": "This is a tool I made for Teamfight Tactics by Riot Games. It helps the player choose your team by showing you possible synergies. Made for mobile. Built in React."
     }
 ]

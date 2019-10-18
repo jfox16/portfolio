@@ -3,9 +3,8 @@ import './App.css';
 import { BrowserRouter as Router, Route } from "react-router-dom";
 
 import MyNavbar from './Components/MyNavbar';
-import Footer from "./Components/Footer";
 import HomePage from './Pages/HomePage';
-import ContactPage from './Pages/ContactPage';
+import ResumePage from './Pages/ResumePage';
 
 
 /* 
@@ -22,8 +21,7 @@ function App() {
       <Router basename={process.env.PUBLIC_URL}>
         <MyNavbar />
         <Route exact path="/" component={HomePage}/>
-        <Route exact path="/contact" component={ContactPage}/> 
-        <Footer />
+        <Route exact path="/resume" component={ResumePage}/>
       </Router>
     </div>
   );
