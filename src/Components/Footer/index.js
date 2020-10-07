@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { IoMdMail } from 'react-icons/io';
 
-import { FaLinkedin, FaGithub } from "react-icons/fa";
+import { FaTwitter, FaLinkedin, FaGithub } from "react-icons/fa";
 
 // Import CSS
 import "./Footer.css";
@@ -18,16 +18,22 @@ class Footer extends Component {
             <IoMdMail/> FoxJonathanP@gmail.com
           </a>
           </div>
-          
+
           <div>
-          <a href="https://www.linkedin.com/in/jonathan-fox-cs/h">
-            <FaLinkedin/> Linkedin.com/in/jonathan-fox-cs
+          <a href="https://twitter.com/jfox6cs">
+            <FaTwitter/> Twitter.com/jfox6cs
           </a>
           </div>
 
           <div>
-          <a href="https://github.com/FishWash">
-            <FaGithub/> Github.com/FishWash
+          <a href="https://github.com/jfox16">
+            <FaGithub/> Github.com/jfox16
+          </a>
+          </div>
+          
+          <div>
+          <a href="https://www.linkedin.com/in/jonathan-fox-cs/h">
+            <FaLinkedin/> Linkedin.com/in/jonathan-fox-cs
           </a>
           </div>
 

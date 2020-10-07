@@ -1,8 +1,8 @@
 {
   "name": "jfox-website-2019",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://fishwash.github.io/jfox-website-v2/",
+  "private": false,
+  "homepage": "https://jfox16.github.io/portfolio/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",

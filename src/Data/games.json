@@ -1,27 +1,55 @@
 [
     {
+        "key": "hex-dots",
+        "title": "Hex Dots",
+        "playUrl": "https://hex-dots.herokuapp.com/",
+        "gitHubUrl": "https://github.com/jfox16/hex-dots",
+        "year": "2020",
+        "tools": "JavaScript, Phaser.io, Heroku",
+        "intro": "Hex Dots is a puzzle game I made using Phaser.io, an HTML5 game framework. The game is based on Dots, but I changed it up by using a hexagonal grid instead of orthogonal. I built the game to be performant on browsers and added animations to give the game a satisfying feel."
+    },
+    {
+        "key": "stick-fighter",
+        "title": "Stick Fighter",
+        "playUrl": "https://stick-fighter.herokuapp.com/",
+        "gitHubUrl": "https://github.com/jfox16/street-fighter-vr",
+        "year": "2019",
+        "tools": "JavaScript, Express, Socket.io, Heroku",
+        "intro": "Stick Fighter is an online multiplayer game that I built from the ground up using JavaScript, Express, and Socket.io. I wrote the game engine, client, animations, and hitbox detection. The game uses an authoritative server, which means all the game logic runs on the server; the client only reads input and displays gamestate."
+    },
+    {
+        "key": "sfvr",
+        "title": "Street Fighter VR",
+        "gitHubUrl": "https://github.com/jfox16/street-fighter-vr",
+        "year": "2019",
+        "tools": "C#, Unity, Photon, VR",
+        "intro": "Street Fighter VR is an online multiplayer VR fighting game made with Unity. Motion-controlled attacks immerse the player in the combat. You can play as two characters with unique movesets. Features custom-made music and voice acting."
+    },
+    {
         "key": "pointer-mace",
         "title": "Pointer Mace",
-        "playUrl": "https://fishwash.github.io/pointer-mace/",
-        "gitHubUrl": "https://github.com/FishWash/pointer-mace",
+        "playUrl": "https://jfox16.github.io/pointer-mace/",
+        "gitHubUrl": "https://github.com/jfox16/pointer-mace",
         "year": "2019",
-        "tools": "Unity",
+        "tools": "C#, Unity",
         "intro": "Pointer Mace was built around one simple idea: hitting stuff with a mace is really fun! The goal of the game is to survive for as long as you can while protecting your meat!"
     },
     {
         "key": "jet-spaceman",
         "title": "Jet Spaceman",
-        "playUrl": "https://fishwash.github.io/jet-spaceman/",
-        "gitHubUrl": "https://github.com/FishWash/jet-spaceman",
+        "playUrl": "https://jfox16.github.io/jet-spaceman/",
+        "gitHubUrl": "https://github.com/jfox16/jet-spaceman",
         "year": "2019",
-        "intro": "Jet Spaceman is a game based on arcade space shooters that I liked as a kid. Blast away enemy aliens with you ship's charge shot!"
+        "tools": "C#, Unity",
+        "intro": "Jet Spaceman is a game based on arcade space shooters that I liked as a kid. Alien-blasting, bullet dodging fun!"
     },
     {
         "key": "duckoman",
         "title": "Duckoman",
-        "playUrl": "https://fishwash.github.io/Duckoman/",
-        "gitHubUrl": "https://github.com/FishWash/DuckomanCode",
+        "playUrl": "https://jfox16.github.io/Duckoman/",
+        "gitHubUrl": "https://github.com/jfox16/DuckomanCode",
         "year": "2017",
+        "tools": "C#, Unity",
         "intro": "Duckoman was one of the first games I made using Unity. You play as a duck and you battle robots!"
     }
 ]

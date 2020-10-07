@@ -10,6 +10,11 @@ import jetSpacemanPic from './jet-spaceman.png';
 import duckomanPic from './duckoman.png';
 import hsLookupPic from "./hs-lookup.png";
 import tftToolPic from "./tft-tool.png";
+import sfvrPic from './sfvr.png';
+import stickFighterPic from './stick-fighter.png';
+import hexDotsPic from './hex-dots.png';
+
+
 
 const projectImages = {
   "pointer-mace": pointerMacePic,
@@ -17,6 +22,9 @@ const projectImages = {
   "duckoman": duckomanPic,
   "hs-lookup": hsLookupPic,
   "tft-tool": tftToolPic,
+  'sfvr': sfvrPic,
+  'stick-fighter': stickFighterPic,
+  'hex-dots': hexDotsPic,
 }
 
 
