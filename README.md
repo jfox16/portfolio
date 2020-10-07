@@ -1,4 +1,6 @@
-# Jonathan Fox's Portfolio
+# Jonathan Fox Portfolio
+
+Contact me at FoxJonathanP@gmail.com
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
