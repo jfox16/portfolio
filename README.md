@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# Jonathan Fox's Portfolio
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -67,7 +68,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
-# Jonathan Fox Portfolio
-This is a website to show off my projects. Hello employers!
->>>>>>> 49270c4be4dd8f6e3f951f3de5b683fa0fce6d80
