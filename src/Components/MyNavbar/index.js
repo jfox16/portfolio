@@ -3,13 +3,21 @@ import { Navbar, Nav, NavDropdown } from 'react-bootstrap';
 import { foxIcon } from "../../Images";
 import { resume } from "../../Data/jfox-resume.pdf";
 
+
+
 class MyNavbar extends Component {
+
   render() {
+
+    const isDev = !process.env.NODE_ENV || process.env.NODE_ENV === 'development';
+
+    const homeRef = (isDev) ? '/' : '/portfolio';
+    console.log('this is homeRef:', homeRef);
+
     return (
       <div style={{backgroundColor:"white"}}>
-        <a href='/'>goooo</a>
         <Navbar collapseOnSelect sticky="top" bg="dark" variant="dark" expand="md">
-          <Navbar.Brand href="/">
+          <Navbar.Brand href={homeRef}>
             <img src={foxIcon} alt="" style={{height:"30px", marginRight:"10px"}}/>
             J. Fox
           </Navbar.Brand>
