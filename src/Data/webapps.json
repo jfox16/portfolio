@@ -2,7 +2,7 @@
     {
         "key": "hs-lookup",
         "title": "HS Lookup",
-        "tryUrl": "hslookup.net",
+        "tryUrl": "https://hslookup.net",
         "gitHubUrl": "https://github.com/jfox16/hs-lookup.git",
         "year": "2019",
         "tools": "React",
