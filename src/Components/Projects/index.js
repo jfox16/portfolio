@@ -7,7 +7,7 @@ class Projects extends Component {
     var projectDisplay;
     if (this.props.projects) {
       projectDisplay = this.props.projects.map((project) =>
-        <ProjectCard project={project} />
+        <ProjectCard project={project} key={project.key} />
       );
     }
     else {

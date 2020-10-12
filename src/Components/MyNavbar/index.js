@@ -12,7 +12,6 @@ class MyNavbar extends Component {
     const isDev = !process.env.NODE_ENV || process.env.NODE_ENV === 'development';
 
     const homeRef = (isDev) ? '/' : '/portfolio';
-    console.log('this is homeRef:', homeRef);
 
     return (
       <div style={{backgroundColor:"white"}}>
