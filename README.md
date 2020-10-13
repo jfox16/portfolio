@@ -1,6 +1,6 @@
 # Jonathan Fox Portfolio
 
-## [Click here to visit the website](https://jfox16.github.io/portfolio/)
+## [👉 Visit the website here!](https://jfox16.github.io/portfolio/)
 
 You can contact me at FoxJonathanP@gmail.com
 
